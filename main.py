@@ -133,6 +133,6 @@ def trans(table_name,table_comment,file_path):
 
 if __name__ == '__main__':
 
-    file_path = 'E:\work\中软-地震局\文档\标准\活断层数据集_系统\A1_InvestigationRegion\MainAFSvyRegion-主要活动断层制图区-面.xls'
+    file_path = '\A1_InvestigationRegion\MainAFSvyRegion-主要活动断层制图区-面.xls'
 
     trans('hddc_main_afsvy_region','主要活动断层制图区-面',file_path)
